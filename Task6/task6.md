@@ -8,8 +8,10 @@
 <img src="temi/skrinshoti/31.png" width="20%"><img src="temi/skrinshoti/32.png" width="20%"><img src="temi/skrinshoti/33.png" width="20%"><img src="temi/skrinshoti/34.png" width="20%"><img src="temi/skrinshoti/35.png" width="20%">
 ## Тема 4. Жизненный цикл Broadcast Receiver и асинхронность
 <img src="temi/skrinshoti/41.png" width="20%"><img src="temi/skrinshoti/42.png" width="20%"><img src="temi/skrinshoti/43.png" width="20%"><img src="temi/skrinshoti/44.png" width="20%"><img src="temi/skrinshoti/45.png" width="20%">
-## Тема 5. Поставщики контента (Content Providers) и UriMatcher\
+## Тема 5. Поставщики контента (Content Providers) и UriMatcher
 <img src="temi/skrinshoti/51.png" width="20%"><img src="temi/skrinshoti/52.png" width="20%"><img src="temi/skrinshoti/53.png" width="20%"><img src="temi/skrinshoti/54.png" width="20%"><img src="temi/skrinshoti/55.png" width="20%">
+Тема 6. Жизненный цикл и потокобезопасность Content Provider      
+<img src="temi/skrinshoti/61.png" width="20%"><img src="temi/skrinshoti/62.png" width="20%"><img src="temi/skrinshoti/63.png" width="20%"><img src="temi/skrinshoti/64.png" width="20%"><img src="temi/skrinshoti/65.png" width="20%">
 ---
 # Темы
 ### Блок 1: Фоновые службы, медиа и геотрекинг (Services)
